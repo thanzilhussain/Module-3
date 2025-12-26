@@ -11,7 +11,12 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 Add code here
-
+```py
+main_tuple = ("s", "8", "a", "v", "n", "g", "u", "r", "c", "e")
+print("n" in main_tuple)
+print("8" in main_tuple)
+```
 ## Output
+<img width="287" height="135" alt="image" src="https://github.com/user-attachments/assets/337d569c-8553-49bb-b5b2-38a7f5fbb036" />
 
 ## Result
